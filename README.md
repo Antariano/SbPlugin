@@ -1,7 +1,7 @@
 SbPlugin
 ========
 In this joint operation we express our efforts to bring SpaceBukkit back to a presentable state. 
-This repo a complete rewrite of our Java core files that will ultimately become SpaceBukkit 1.3.
+This repo contains a complete rewrite of our Java core files that will ultimately become SpaceBukkit 1.3.
 
 Additional repos can be found here:
 [SbPanel](https://github.com/SpaceDev/SbPanel),
