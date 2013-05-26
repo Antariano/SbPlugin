@@ -62,14 +62,14 @@
         <!-- Not yet created
         <dependency>
             <groupId>net.xereo</groupId>
-            <artifactId>SbModule</artifactId>
+            <artifactId>sbmodule</artifactId>
             <version>1.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
 
         <dependency>
             <groupId>net.xereo</groupId>
-            <artifactId>SbRTK</artifactId>
+            <artifactId>sbrtk</artifactId>
             <version>1.3-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
