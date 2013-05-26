@@ -1,0 +1,8 @@
+name: "${project.name}"
+version: "${project.version}"
+main: "net.xereo.sbplugin.SbPlugin"
+website: "${project.parent.url}"
+description: "${project.parent.description}"
+author: "SpaceDev"
+authors:
+  - "totokaka"
